@@ -26,3 +26,8 @@ In the project directory, run the following:
 
   The build is minified and the filenames include the hashes.\
    The app is ready to be deployed!
+
+### Notes
+
+    - There is a button above that increases the API fail response rate, it is used to show how the UI handles error/failure cases.
+    - The mocked data is inside the mocks folder, you can delete or add more data with the same shape at your convenience and the functionality will not be affected.
