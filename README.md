@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Autocomplete React
+![Screenshot 2023-07-16 at 14 59 26](https://github.com/i-moreno/autocomplete/assets/48337508/1681588b-a150-4c0f-a091-4531dfaa8c0a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
